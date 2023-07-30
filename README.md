@@ -57,8 +57,7 @@ The app includes a search functionality that allows users to quickly find specif
 
 For any inquiries or questions regarding the project, you can reach out to us at 
 ## an4ss.essadikine@gmail.com.
-## My linkedin : 
-<a href="https://www.linkedin.com/in/anass-essadikine-8b398b233">linkedin</a>
+## My linkedin : <a href="https://www.linkedin.com/in/anass-essadikine-8b398b233">linkedin</a>
 
 ## Demonstration Video :
 https://github.com/ESSADIKINE/FSTContact/assets/140465843/3eddf4a3-2462-4eba-a10f-d86b0cddc8eb
