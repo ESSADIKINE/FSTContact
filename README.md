@@ -37,10 +37,13 @@ The app includes a search functionality that allows users to quickly find specif
 
 ## Screenshots:
 <div>
+   Add Contact
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/Add%20Contact.jpg" width="300px">
+   View Contact
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/View%20Contact.jpg" width="300px">
 </div>
 <div>
+   Menu
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/Menu.jpg" width="300px">
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/View%20All.jpg" width="300px">
 </div>
