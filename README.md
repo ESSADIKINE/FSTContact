@@ -36,14 +36,14 @@ The app includes a search functionality that allows users to quickly find specif
 <h6>Android Studio:</h6> The integrated development environment (IDE) used for Android app development.
 
 ## Screenshots:
-<div>Add Contact -------------------------------------- View Contact</div>
+<div><h2>Add Contact</h2> -------------------------------------- <h2>View Contact</h2></div>
 <div>
    
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/Add%20Contact.jpg" width="400px">
    
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/View%20Contact.jpg" width="400px">
 </div>
-<div>Menu --------------------------------------------- View All Contacts</div>
+<div><h2>Menu</h2> --------------------------------------------- <h2>View All Contacts</h2></div>
 <div>
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/Menu.jpg" width="400px">
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/View%20All.jpg" width="400px">
