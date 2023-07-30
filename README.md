@@ -37,19 +37,26 @@ The app includes a search functionality that allows users to quickly find specif
 
 ## Screenshots:
 
-<div><h2>Menu</h2></div>
+<div><h3>Menu / View All Contacts</h3></div>
 <div>
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/Menu.jpg" width="400px">
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/View%20All.jpg" width="400px">
 </div>
 
-<div><h2>Add Contact</h2></div>
+<div><h3>Add Contact</h3></div>
 <div>  
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/Add%20Contact.jpg" width="400px">
 </div>  
 
-<div><h2>View Contact</h2></div>
+<div><h3>View Contact</h3></div>
 <div> 
 <img src="https://github.com/ESSADIKINE/FSTContact/blob/main/main/View%20Contact.jpg" width="400px">
 </div>
+
+## Contact:
+
+For any inquiries or questions regarding the project, you can reach out to us at 
+an4ss.essadikine@gmail.com.
+## My linkedin : 
+![linkedin] (https://www.linkedin.com/in/anass-essadikine-8b398b233/)
 
