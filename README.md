@@ -2,10 +2,10 @@
 ### Contact Mobile App with Java and SQLite Database
 
 
-# About the Project:
+## About the Project:
 The Contact Mobile App is an Android application developed using Java and SQLite database to provide users with a convenient way to manage their contacts. The app allows users to perform various operations such as adding new contacts, viewing existing contacts, updating contact information, and deleting unwanted contacts.
 
-# Key Features:
+## Key Features:
 
 ### 👤 Add New Contacts: 
 Users can easily add new contacts to their address book by providing the contact's name, phone number, and email address.
@@ -27,4 +27,18 @@ Users can initiate a phone call directly from the app by tapping on a contact's 
 ### 🔎 Search Contacts: 
 The app includes a search functionality that allows users to quickly find specific contacts by typing in their name or phone number.
 
+## Technologies Used:
 
+<h6>Java:</h6> The programming language used to develop the Android application.
+
+<h6>SQLite Database:</h6> A lightweight, embedded database used to store and manage contact information locally on the device.
+
+<h6>Android Studio:</h6> The integrated development environment (IDE) used for Android app development.
+
+## Screenshots:
+![View Contact](/screenshots/screenshot1.png)
+![add contact](/screenshots/screenshot2.png)
+<div>
+<img src="
+<img src=" 
+</div>
